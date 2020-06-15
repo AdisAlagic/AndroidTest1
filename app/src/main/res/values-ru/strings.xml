@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HashFinder</string>
+    <string name="hash_here">Впишите хеш сюда</string>
+    <string name="submit">Существует?</string>
+    <string name="invalid_hash">Неверный Хеш!</string>
+    <string name="remote_error">Что ж: %s</string>
+    <string name="hash_not_found">Хеш не найден, добавлен этот</string>
+    <string name="service_no_connection">Нет соединения с сервисом</string>
+</resources>

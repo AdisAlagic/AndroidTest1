@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HashFinder</string>
+    <string name="hash_here">Hash here to find</string>
+    <string name="submit">Exists?</string>
+    <string name="invalid_hash">Invalid Hash!</string>
+    <string name="remote_error">Welp: %s</string>
+    <string name="hash_not_found">Hash not found, added this one instead</string>
+    <string name="hash_found" translatable="false">OK</string>
+    <string name="service_no_connection">No connection to service</string>
+</resources>
